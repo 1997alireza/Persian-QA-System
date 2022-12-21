@@ -21,7 +21,7 @@ If you need to use [the evaluation part](src/master/src/evaluation/), install th
 
 ### Web Interface
 
-![Interface](docs/Thesis%20Latex/figures/interface/admin-double-multiple-new.png)
+<p align="center" ><img src="docs/Thesis%20Latex/figures/interface/admin-double-multiple-new.png" data-canonical-src="docs/Thesis%20Latex/figures/interface/admin-double-multiple-new.png" width="90%" /> </p>
 
 Run
     
