@@ -5,7 +5,7 @@ The purpose of the project is to build a model that can generate answers to simp
 
 ## Bachelor Thesis
 
-This project is contributed to my bachelor thesis which is available [here](src/master/docs/Thesis.pdf).
+This project is contributed to my bachelor thesis which is available [here](docs/Thesis.pdf).
 
 ## Installation
 
@@ -13,7 +13,7 @@ Install required packages:
     
     pip install -r requirements.txt
     
-If you need to use [the evaluation part](src/master/src/evaluation/), install their required packages too:
+If you need to use [the evaluation part](src/evaluation/), install their required packages too:
 
     pip install -r requirements-eval.txt
 
