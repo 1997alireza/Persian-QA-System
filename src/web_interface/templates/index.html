@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+    <head>
+        <meta charset="utf-8">
+        <title>سیستم پرسش و پاسخ فارسی</title>
+
+        <link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='css/styles.css') }}">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/js.cookie-2.2.1.min.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/element_generator.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/page_helper.js') }}"></script>
+    </head>
+
+    <body>
+        <div id="page_container">
+            <div class="top">
+                <div class="search">
+                    <input type="text" id="question" placeholder="بپرس ..."/>
+                </div>
+                <div class="options">
+                    <label class="switch-div">
+                        <label class="switch-label" for="rest_answers_cb">بررسی روابط غیرمنتخب</label>
+                        <label class="switch">
+                            <input type="checkbox" id="rest_answers_cb">
+                            <span class="slider round"></span>
+                        </label>
+                    </label>
+                    <label class="switch-div" id="show_query_cb_div" style="display: none">
+                        <label class="switch-label" for="show_query_cb">نمایش کوئری ارسال شده</label>
+                        <label class="switch">
+                            <input type="checkbox" id="show_query_cb" checked>
+                            <span class="slider round"></span>
+                        </label>
+                    </label>
+                </div>
+                <div class="authentication-div" id="login_div">
+                    <a href="javascript:login();" class="button">ورود ادمین</a>
+                </div>
+                <div class="authentication-div" id="logout_div" style="display: none">
+                    <a href="javascript:logout();" class="button">خروج</a>
+                </div>
+            </div>
+            <div id="entities_info">
+                <div class="info-container">
+                    <div class="info-list-container">
+                        <p>کلمات تشخیص داده شده به عنوان موجودیت: </p>
+                        <div id="detected_words"></div>
+                    </div>
+                    <div class="info-list-container">
+                        <p>گره‌های متصل از پایگاه دانش: </p>
+                        <div id="detected_entities"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="answer"></div>
+            <div class="footer">
+                <small>Copyright 2020 Alireza Torabian</small>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,50 @@
+label(relation),uri,start_entity_key,end_entity_key
+‫پایتخت یک کشور‬,http://fkg.iust.ac.ir/ontology/capital,ررر,ششش
+واحد پول یک شرکت ,http://fkg.iust.ac.ir/ontology/currency,ااا,ضضض
+نوع حکومت یک کشور,http://fkg.iust.ac.ir/ontology/governmentType,ررر,ححح
+زبان رسمی یک کشور,http://fkg.iust.ac.ir/ontology/language,ررر,ززز
+مساحت یک کشور,http://fkg.iust.ac.ir/ontology/areaTotal,ررر,ممم
+جمعیت یک کشور,http://fkg.iust.ac.ir/ontology/populationTotal,ررر,ممم
+کارگردان یک فیلم,http://fkg.iust.ac.ir/ontology/director,ففف,پپپ۱
+بازیگران یک فیلم,http://fkg.iust.ac.ir/ontology/starring,ففف,پپپ۳
+نویسنده یک فیلم,http://fkg.iust.ac.ir/ontology/writer,ففف,پپپ۲
+آهنگساز یک فیلم,http://fkg.iust.ac.ir/ontology/musicComposer,ففف,پپپ۴
+بودجه یک فیلم,http://fkg.iust.ac.ir/ontology/budget,ففف,ممم
+میزان فروش یک فیلم,http://fkg.iust.ac.ir/ontology/gross,ففف,ممم
+ترکیبات یک غذا,http://fkg.iust.ac.ir/ontology/ingredient,غغغ,تتت
+آثار یک شخص (هر نوع اثر هنری یا فرهنگی یا مذهبی),http://fkg.iust.ac.ir/ontology/notableWork,پپپ۶,ثثث
+باشگاه های یک ورزشکار ,http://fkg.iust.ac.ir/ontology/club,پپپ۷,ببب
+محل تحصیل یک شخص ,http://fkg.iust.ac.ir/ontology/almaMater,پپپ۱۲,للل
+استاندار یک استان ,http://fkg.iust.ac.ir/ontology/governorGeneral,ططط,پپپ۸
+محل دفن یک شخص,http://fkg.iust.ac.ir/ontology/deathPlace,پپپ۱۲,للل
+تاریخ مرگ یک شخص,http://fkg.iust.ac.ir/ontology/deathDate,پپپ۱۲,خخخ
+فرزندان یک شخص,http://fkg.iust.ac.ir/ontology/child,پپپ۱۲۱,پپپ۱۲۲
+سرمربی یک تیم ورزشی,http://fkg.iust.ac.ir/property/سرمربی,ققق,پپپ۹
+مرکز یک استان ,http://fkg.iust.ac.ir/ontology/capital,ططط,ششش
+کارگردان یک سریال تلویزیونی,http://fkg.iust.ac.ir/ontology/director,ففف,پپپ۱
+بازیگران یک سریال تلویزیونی,http://fkg.iust.ac.ir/ontology/starring,ففف,پپپ۳
+نویسنده یک سریال تلویزیونی ,http://fkg.iust.ac.ir/ontology/author,ففف,پپپ۲
+قد یک ورزشکار,http://fkg.iust.ac.ir/ontology/Person/height,پپپ۷,ممم
+مساحت یک دریا یا اقیانوس,http://fkg.iust.ac.ir/ontology/areaTotal,ددد,ممم
+دوره ساخت یک مکان یا بنا,http://fkg.iust.ac.ir/ontology/era,للل,چچچ
+‫همسر یک شخص‬,http://fkg.iust.ac.ir/ontology/spouse,پپپ۱۲,پپپ۱۲۰
+محل یک مکان یا بنا,http://fkg.iust.ac.ir/ontology/county,ژژژ,للل
+ملیت یک شخص,http://fkg.iust.ac.ir/ontology/nationality,پپپ۱۲,ججج
+نویسنده کتاب,http://fkg.iust.ac.ir/ontology/author,ککک,پپپ۶
+ناشر کتاب,http://fkg.iust.ac.ir/ontology/publisher,ککک,ننن
+پیش شماره,http://fkg.iust.ac.ir/ontology/areaCode,ششش,ممم
+مساحت,http://fkg.iust.ac.ir/ontology/areaTotal,ششش,ممم
+جمعیت,http://fkg.iust.ac.ir/ontology/populationTotal,ششش,ممم
+شهردار,http://fkg.iust.ac.ir/ontology/leaderName,ششش,پپپ۱۰
+محصولات شرکت,http://fkg.iust.ac.ir/ontology/service,ااا,صصص
+سایت یک شرکت,http://xmlns.com/foaf/0.1/homepage,ااا,ووو
+مدیر عامل شرکت,http://fkg.iust.ac.ir/ontology/ceo,ااا,پپپ۱۱
+درامد,http://fkg.iust.ac.ir/ontology/revenue,ااا,ممم
+پلاک,http://fkg.iust.ac.ir/ontology/vehicleCode,ششش,ممم
+بزرگترین شهر یک کشور,http://fkg.iust.ac.ir/property/بزرگترین_شهر,ررر,ششش
+وزیر یک وزارتخانه,http://fkg.iust.ac.ir/ontology/leader,ذذذ,پپپ۵
+تعداد کارکنان یک شرکت یا ارگان,http://fkg.iust.ac.ir/ontology/numberOfStaff,ااا,ممم
+نام ورزشگاه یک تیم ورزشی,http://fkg.iust.ac.ir/ontology/ground,ققق,گگگ
+شهرهای یک کشور ,,ررر,ششش
+شهرهای یک استان,,ططط,ششش
+محل تولد,http://fkg.iust.ac.ir/ontology/birthPlace,پپپ,للل

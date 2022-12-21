@@ -1,0 +1,14 @@
+*.xls
+*.xlsx
+*.csv
+.idea
+.idea/*
+__pycache__
+some_ttls
+.DS_Store
+test.*
+test/
+logs/
+to.do
+docs/notes/
+venv
